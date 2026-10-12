@@ -1,0 +1,11 @@
+# --- raw dataset (16 GB, irreplaceable) ---
+stadtgarten_seq2.db3
+*.db3
+
+# --- point clouds ---
+*.pcd
+*.pcd.bak
+
+# --- Python ---
+__pycache__/
+*.pyc

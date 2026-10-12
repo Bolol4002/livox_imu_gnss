@@ -1,0 +1,47 @@
+[INFO] [launch]: All log files can be found below /home/sayooj/.ros/log/2026-10-01-10-26-53-204492-spc-9213
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [fastlio_mapping-1]: process started with pid [9214]
+[fastlio_mapping-1] [INFO] [1790830613.301299216] [laser_mapping]: p_pre->lidar_type 4
+[fastlio_mapping-1] Multi thread started 
+[fastlio_mapping-1] ~~~~/home/sayooj/fastlio_ws/src/FAST_LIO_ROS2/ file opened
+[fastlio_mapping-1] [INFO] [1790830613.304995876] [laser_mapping]: Node init finished.
+[fastlio_mapping-1] [INFO] [1790830614.304971825] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830615.304859666] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830616.304977333] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830617.304933233] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830618.304982651] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830619.304959041] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830620.304896995] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830621.304978841] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830622.305002843] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830623.304924388] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830624.304987103] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830625.304868026] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830626.304942129] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830627.304872556] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830628.304867872] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830629.305017302] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830630.304927565] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830631.304897653] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830632.305010031] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830633.304890308] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830634.304899817] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830635.304919668] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830636.304967245] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830637.304865873] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830638.304901255] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830639.304907673] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830640.304872036] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830641.304925402] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830642.304898161] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830643.304980214] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830644.305044319] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830645.304898103] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830646.304990890] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830647.305019122] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830648.304886938] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830649.304903682] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] [INFO] [1790830650.304973358] [laser_mapping]: STATS cb_scan=0 cb_imu=0 processed=0 lidar_buf=0 imu_buf=0
+[fastlio_mapping-1] catch sig %d2
+[fastlio_mapping-1] Rebuild thread terminated normally
+[INFO] [fastlio_mapping-1]: process has finished cleanly [pid 9214]

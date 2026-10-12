@@ -1,0 +1,21 @@
+FAST-LIO CPU footprint over full bag replay
+=================================================
+bag                 : stadtgarten_seq2.db3
+wall clock          : 936.0s
+samples             : 935
+process             : fastlio_mapping pid=9441
+
+CPU (one core = 100%)
+  mean all          :   34.9 %
+  steady (t>15s)    :   35.1 %
+  first third       :   35.6 %
+  second third      :   39.7 %
+  last third        :   29.6 %
+  total CPU used    : 326.8 core-seconds
+  core-sec / sec    : 0.349
+
+Memory
+  RSS start         :    150.1 MB
+  RSS peak          :    407.3 MB
+  RSS end           :    368.9 MB
+  growth over run   :   +218.8 MB

@@ -1,0 +1,57 @@
+rosbag2_bagfile_information:
+  compression_format: ''
+  compression_mode: ''
+  custom_data: {}
+  duration:
+    nanoseconds: 934673629284
+  files:
+  - duration:
+      nanoseconds: 934673629284
+    message_count: 219926
+    path: stadtgarten_seq2.db3
+    starting_time:
+      nanoseconds_since_epoch: 1762269335594932794
+  message_count: 219926
+  relative_file_paths:
+  - stadtgarten_seq2.db3
+  ros_distro: rosbags
+  starting_time:
+    nanoseconds_since_epoch: 1762269335594932794
+  storage_identifier: sqlite3
+  topics_with_message_count:
+  - message_count: 17535
+    topic_metadata:
+      name: /camera/image_raw/compressed
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/CompressedImage
+      type_description_hash: RIHS01_15640771531571185e2efc8a100baf923961a4d15d5569652e6cb6691e8e371a
+  - message_count: 8768
+    topic_metadata:
+      name: /gnss/fix
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/NavSatFix
+      type_description_hash: RIHS01_62223ab3fe210a15976021da7afddc9e200dc9ec75231c1b6a557fc598a65404
+  - message_count: 175191
+    topic_metadata:
+      name: /livox/imu
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/Imu
+      type_description_hash: RIHS01_7d9a00ff131080897a5ec7e26e315954b8eae3353c3f995c55faf71574000b5b
+  - message_count: 9216
+    topic_metadata:
+      name: /livox/points
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: sensor_msgs/msg/PointCloud2
+      type_description_hash: RIHS01_9198cabf7da3796ae6fe19c4cb3bdd3525492988c70522628af5daa124bae2b5
+  - message_count: 9216
+    topic_metadata:
+      name: /livox/lidar
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: livox_ros_driver/msg/CustomMsg
+      type_description_hash: RIHS01_94041b4794f52c1d81def2989107fc898a62dacb7a39d5dbe80d4b55e538bf6d
+  version: 8

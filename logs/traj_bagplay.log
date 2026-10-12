@@ -1,0 +1,16 @@
+stdin is not a terminal device. Keyboard handling disabled.[INFO] [1790823590.421113584] [rosbag2_storage]: Opened database '/home/sayooj/Documents/livox_imu_gnss/stadtgarten_seq2.db3' for READ_ONLY.
+[INFO] [1790823593.429577794] [rosbag2_player]: Set rate to 1
+[INFO] [1790823593.434546798] [rosbag2_player]: Adding keyboard callbacks.
+[INFO] [1790823593.434599395] [rosbag2_player]: Press SPACE for Pause/Resume
+[INFO] [1790823593.434609184] [rosbag2_player]: Press CURSOR_RIGHT for Play Next Message
+[INFO] [1790823593.434617592] [rosbag2_player]: Press CURSOR_UP for Increase Rate 10%
+[INFO] [1790823593.434625884] [rosbag2_player]: Press CURSOR_DOWN for Decrease Rate 10%
+[INFO] [1790823593.435030159] [rosbag2_storage]: Opened database '/home/sayooj/Documents/livox_imu_gnss/stadtgarten_seq2.db3' for READ_ONLY.
+
+closing.
+
+closing.
+
+closing.
+
+closing.

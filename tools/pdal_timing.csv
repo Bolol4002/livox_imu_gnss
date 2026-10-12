@@ -1,0 +1,8 @@
+group,points,stage,total_s,stage_s
+breakdown,995439,read,0.967,0.967
+breakdown,995439,outlier,8.878,7.911
+breakdown,995439,smrf,9.099,0.221
+breakdown,995439,gdal,10.612,1.513
+scaling,248860,gdal,2.702,
+scaling,497720,gdal,4.968,
+scaling,995439,gdal,10.646,

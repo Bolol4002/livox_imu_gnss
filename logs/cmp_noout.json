@@ -1,0 +1,12 @@
+{
+  "pipeline": [
+    { "type": "readers.text", "filename": "stadtgarten_seq2_cloud_utm.csv", "override_srs": "EPSG:32632" },
+    { "type": "filters.smrf", "cell": 1.0, "slope": 0.3, "scalar": 1.0, "threshold": 0.5 },
+    { "type": "writers.gdal",
+      "filename": "logs/cmp_noout.tif",
+      "resolution": 0.5,
+      "bounds": "([512496.955, 512754.455], [5403089.639, 5403279.639])",
+      "radius": 1.5, "power": 1.0, "output_type": "idw",
+      "where": "Classification == 2", "data_type": "float", "nodata": -9999.0 }
+  ]
+}

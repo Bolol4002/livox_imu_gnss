@@ -1,0 +1,35 @@
+{
+  "pipeline": [
+    {
+      "type": "readers.text",
+      "filename": "stadtgarten_seq2_cloud_utm.csv",
+      "override_srs": "EPSG:32632"
+    },
+    {
+      "type": "filters.outlier",
+      "method": "statistical",
+      "mean_k": 10,
+      "multiplier": 2.0,
+      "class": 7
+    },
+    {
+      "type": "filters.smrf",
+      "cell": 1.0,
+      "slope": 0.3,
+      "scalar": 1.0,
+      "threshold": 0.5,
+      "where": "Classification != 7"
+    },
+    {
+      "type": "writers.gdal",
+      "filename": "dem/stadtgarten_seq2_dem.tif",
+      "resolution": 0.5,
+      "radius": 1.5,
+      "power": 1.0,
+      "output_type": "idw",
+      "where": "Classification == 2",
+      "data_type": "float",
+      "nodata": -9999.0
+    }
+  ]
+}

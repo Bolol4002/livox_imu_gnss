@@ -1,0 +1,22 @@
+[INFO] [1790695093.137168301] [rosbag2_storage]: Opened database '/home/sayooj/Documents/livox_imu_gnss/stadtgarten_seq2.db3' for READ_ONLY.
+--- LIDAR ---
+frames: 9216
+frames without offset_time field / empty: 573 [0]
+widths: [20256]
+offset_time tmax ms: min=99.802 max=99.819 mean=99.810
+offset_time tmin ms: min=0 max=0
+zero-xyz fraction: mean=0.5058 max=0.8230
+frame dt ns: min=101270914 max=104813488 median=101280000  non-monotonic=0
+big gaps >150ms: 0
+span s: 934.674
+--- IMU ---
+msgs: 175191
+dt ns: min=504064 max=8055808 median=5172864
+rate Hz (median): 193.32
+non-monotonic: 0  gaps >10ms: 0
+span s: 875.953
+|acc| mean=9.7980 std=0.0042 min=9.784 max=9.818
+--- ALIGNMENT ---
+lidar first/last : 1762269335594932712 1762270270268562078
+imu   first/last : 1762269335632626176 1762270211585690624
+offset start s: 0.038  end s: -58.683

@@ -1,0 +1,16 @@
+DEM keep-up budget (from measured timings)
+==============================================================
+this machine          : i5-1155G7 (4C/8T)
+full pipeline @ 995,439 pts : 10.61 s   (read 0.97 / outlier 7.91 / smrf 0.22 / gdal 1.51)
+linear fit            : cost = -0.137 + 10.750e-6 * N
+map growth rate       : 1137 pts/s (995,439 pts over 876 s)
+assumed slowdown      : 3.0x  (ESTIMATE, not measured)
+mode                  : INCREMENTAL (outlier over new points only, 7.91s/995,439 pts)
+
+  cadence    60 s  ->  keeps up for  105.9 min
+  cadence    30 s  ->  keeps up for   53.3 min
+  cadence    10 s  ->  keeps up for   18.3 min  <- tight
+
+note: t must exceed the planned flight time for the loop to hold.
+      An incremental pass relaxes this substantially because
+      filters.outlier is 74% of the cost and is a per-point kNN.

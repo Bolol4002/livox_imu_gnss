@@ -1,0 +1,11 @@
+[INFO] [launch]: All log files can be found below /home/sayooj/.ros/log/2026-09-29-21-20-16-644737-spc-7328
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [fastlio_mapping-1]: process started with pid [7329]
+[fastlio_mapping-1] [INFO] [1790697016.756155108] [laser_mapping]: p_pre->lidar_type 4
+[fastlio_mapping-1] Multi thread started 
+[fastlio_mapping-1] ~~~~/home/sayooj/fastlio_ws/src/FAST_LIO_ROS2/ file opened
+[fastlio_mapping-1] [INFO] [1790697016.760001220] [laser_mapping]: Node init finished.
+[fastlio_mapping-1] IMU Initial Done
+[fastlio_mapping-1] [WARN] [1790697037.499888462] [laser_mapping]: No point, skip this scan!
+[fastlio_mapping-1] 
+[fastlio_mapping-1] [INFO] [1790697037.600223042] [laser_mapping]: Initialize the map kdtree
